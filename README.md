@@ -1,6 +1,6 @@
 # Wordlists
 
-List of wordlist used during Penetration Test activities.
+Wordlist used during Penetration Test activities.
 
 **Lotus Dominio**
 
