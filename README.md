@@ -3,6 +3,7 @@
 List of wordlist used during Penetration Test activities.
 
 **Lotus Dominio**
+
 Wordlist taken from:
  - https://raw.githubusercontent.com/carnal0wnage/Metasploit-Code/master/data/wordlists/lotus_domino_bases.txt
  - https://github.com/danielmiessler/SecLists/issues/148
